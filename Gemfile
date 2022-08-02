@@ -55,3 +55,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Add 2022.08.02
 gem 'devise'
+# Add 2022.08.02
+gem 'pry-rails'
