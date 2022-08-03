@@ -57,3 +57,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise'
 # Add 2022.08.02
 gem 'pry-rails'
+# Add 2022.08.03
+gem 'mini_magick'
+gem 'image_processing', '~> 1.2'
